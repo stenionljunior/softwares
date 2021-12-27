@@ -12,3 +12,5 @@ AWS CLI
 KeePassXC
 Kdenline
 Remmina
+Docker
+Terraform
