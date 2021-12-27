@@ -14,3 +14,4 @@ Kdenline
 Remmina
 Docker
 Terraform
+GIT
