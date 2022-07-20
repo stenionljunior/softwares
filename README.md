@@ -15,3 +15,4 @@ Remmina
 Docker
 Terraform
 GIT
+Bitwarden
